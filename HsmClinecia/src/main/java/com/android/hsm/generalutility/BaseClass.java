@@ -51,9 +51,7 @@ public class BaseClass {
 	public void loggingIntoApp(){
 		
 		
-		System.out.println("lpgged out from the application");
-		
-		
+
 	}
 
 }
